@@ -1,0 +1,44 @@
+body {
+    background: #FF6666;
+    font-size: 20px;
+}
+
+.logo{
+    display : block;
+    margin-left: auto;
+    margin-right:auto;
+}
+.app-title{
+   text-align: center;
+}
+.container{
+    text-align: center;
+  
+}
+.input-text{
+    margin-right: 10px;
+    border-radius: 4px;
+    padding:5px;
+}
+.add-btn{
+    border-radius: 4px;
+    background-color: blue;
+    color:whitesmoke;
+}
+.list{
+    text-align: center;
+    
+    
+}
+ul {
+    list-style-type: none;
+    
+}
+.btn{
+    background-color: crimson;
+    box-decoration-break: clone;
+    padding-right: 12px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-left:20px
+}
